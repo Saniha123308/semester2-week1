@@ -13,3 +13,4 @@
 -- write your sql code here
 
 SELECT * from countries;
+SELECT country, population from countries;
